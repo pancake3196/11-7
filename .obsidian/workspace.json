@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1c977bbf3ad697b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "120f58d789b7b1aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2ce0d03c1ce917a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git bash/git bash 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad53039762b35918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OJT 수업시간/2023-11/2023-11-06.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4d949f6e48e091c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OJT 수업시간/2023-11/2023-11-07.md"
+              }
+            }
+          },
+          {
+            "id": "cae93f7d762a5531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OJT 수업시간/2023-11/2023-11-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c60795c22f32d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e9f7aac02a3ca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba52e3cd3244041",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe19ed562f8d3491",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4341f0d08c52a34f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7283268302f3e8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "55537b1a0cb9f8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e19dbfe02fa83d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OJT 수업시간/2023-11/2023-11-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26be98ae86e33674",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OJT 수업시간/2023-11/2023-11-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e7ca09f64b6a944",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d58c503d69ccd81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4ba52e3cd3244041",
+  "lastOpenFiles": [
+    "OJT 수업시간/2023-11/2023-11-06.md",
+    "OJT 수업시간/2023-11/2023-11-07.md",
+    "git bash/git bash 명령어.md",
+    "옵시디언 명령어 조각모음.md",
+    "OJT 수업시간/무제 폴더 4/무제 파일.md",
+    "git bash",
+    "무제 폴더 4",
+    "OJT 수업시간/무제 폴더 3",
+    "OJT 수업시간/무제 폴더 2",
+    "OJT 수업시간/2024-1",
+    "OJT 수업시간/2023-12",
+    "OJT 수업시간/2023-11",
+    "OJT 수업시간/2023-11.md",
+    "Pasted image 20231106213629.png",
+    "OJT 수업시간/request.md",
+    "Untitled.md",
+    "OJT 수업시간"
+  ]
+}
