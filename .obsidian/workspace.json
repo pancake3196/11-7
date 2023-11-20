@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2ce0d03c1ce917a",
+            "id": "47bf67b0005fac92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git bash/git bash 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad53039762b35918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-06.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4d949f6e48e091c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-07.md"
-              }
-            }
-          },
-          {
-            "id": "cae93f7d762a5531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-07.md",
+                "file": "OJT 수업시간/2023-11/2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-07.md",
+                "file": "OJT 수업시간/2023-11/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-07.md",
+                "file": "OJT 수업시간/2023-11/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +146,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ba52e3cd3244041",
+  "active": "47bf67b0005fac92",
   "lastOpenFiles": [
-    "OJT 수업시간/2023-11/2023-11-06.md",
-    "OJT 수업시간/2023-11/2023-11-07.md",
     "git bash/git bash 명령어.md",
+    "OJT 수업시간/2023-11/2023-11-06.md",
+    "OJT 수업시간/2023-11/2023-11-20.md",
+    "OJT 수업시간/2023-11/2023-11-07.md",
+    "OJT 수업시간/2023-11/2023-11-09.md",
+    "OJT 수업시간/2023-11/2023-11-13.md",
+    "Pasted image 20231110002315.png",
+    "Pasted image 20231110002311.png",
+    "Pasted image 20231110001720.png",
+    "OJT 수업시간/2023-11/2023-11-08.md",
+    "Pasted image 20231109234259.png",
+    "Pasted image 20231109204503.png",
+    "Pasted image 20231108202837.png",
+    "Pasted image 20231108200838.png",
+    "Pasted image 20231108202817.png",
+    "Pasted image 20231108200726.png",
+    "Pasted image 20231108200821.png",
     "옵시디언 명령어 조각모음.md",
     "OJT 수업시간/무제 폴더 4/무제 파일.md",
     "git bash",
@@ -196,7 +175,6 @@
     "OJT 수업시간/2023-12",
     "OJT 수업시간/2023-11",
     "OJT 수업시간/2023-11.md",
-    "Pasted image 20231106213629.png",
     "OJT 수업시간/request.md",
     "Untitled.md",
     "OJT 수업시간"
