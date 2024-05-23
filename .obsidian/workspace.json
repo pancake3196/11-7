@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-20.md",
+                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-20.md",
+                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-20.md",
+                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OJT 수업시간/2023-11/2023-11-20.md"
+                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md"
               }
             }
           }
@@ -158,17 +158,18 @@
   },
   "active": "47bf67b0005fac92",
   "lastOpenFiles": [
+    "OJT 수업시간/2023-11/2023-11-20.md",
+    "2024-05(기업)/임시",
+    "2024-05(기업)/새 폴더",
     "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
     "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
     "2024-05(기업)/자습/sql",
     "2024-05(기업)/자습/새 폴더",
-    "2024-05(기업)/새 폴더",
     "자습/sql",
     "자습/오라클(sql)",
     "자습",
     "sql 문장 (05-23).md",
     "옵시디언 명령어 조각모음.md",
-    "OJT 수업시간/2023-11/2023-11-20.md",
     "2024-05(기업)/자습/오라클(sql)",
     "2024-05(기업)/자습",
     "2024-05(기업)/무제 파일.md",
@@ -190,7 +191,6 @@
     "Pasted image 20231108200726.png",
     "Pasted image 20231108200821.png",
     "OJT 수업시간/무제 폴더 4/무제 파일.md",
-    "git bash",
     "OJT 수업시간/2023-11.md",
     "OJT 수업시간/request.md",
     "Untitled.md"
