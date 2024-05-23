@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
+                "file": "2024-05(기업)/자습/sql/sql 문장(02-23).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
+                "file": "2024-05(기업)/자습/sql/sql 문장(02-23).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
+                "file": "2024-05(기업)/자습/sql/sql 문장(02-23).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05(기업)/자습/sql/sql 문장 (05-23).md"
+                "file": "2024-05(기업)/자습/sql/sql 문장(02-23).md"
               }
             }
           }
@@ -156,24 +156,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47bf67b0005fac92",
+  "active": "4ba52e3cd3244041",
   "lastOpenFiles": [
+    "2024-05(기업)1/자습/sql/sql 문장 (05-23).md",
+    "2024-05(기업)/자습/sql/sql 문장(02-23).md",
+    "2024-05(기업)/자습/sql",
+    "2024-05(기업)/자습",
+    "무제 폴더 1",
+    "2024-05(기업)",
+    "OJT 수업시간/2023-11/11-13.md",
+    "옵시디언 명령어 조각모음.md",
+    "sql 문장 (05-23).md",
+    "2024-05(기업)1/자습/sql/임시",
+    "2024-05(기업)/새 폴더",
     "OJT 수업시간/2023-11/2023-11-20.md",
     "2024-05(기업)/임시",
-    "2024-05(기업)/새 폴더",
     "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
-    "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
-    "2024-05(기업)/자습/sql",
+    "2024-05(기업)1/자습/sql",
     "2024-05(기업)/자습/새 폴더",
     "자습/sql",
-    "자습/오라클(sql)",
-    "자습",
-    "sql 문장 (05-23).md",
-    "옵시디언 명령어 조각모음.md",
-    "2024-05(기업)/자습/오라클(sql)",
-    "2024-05(기업)/자습",
     "2024-05(기업)/무제 파일.md",
-    "2024-05(기업)",
     "git bash/git bash 명령어.md",
     "OJT 수업시간/2023-11/2023-11-06.md",
     "OJT 수업시간/2023-11/2023-11-07.md",
