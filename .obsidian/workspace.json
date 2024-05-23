@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
+                "file": "OJT 수업시간/2023-11/2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
+                "file": "OJT 수업시간/2023-11/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
+                "file": "OJT 수업시간/2023-11/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md"
+                "file": "OJT 수업시간/2023-11/2023-11-20.md"
               }
             }
           }
@@ -158,8 +158,16 @@
   },
   "active": "47bf67b0005fac92",
   "lastOpenFiles": [
-    "옵시디언 명령어 조각모음.md",
     "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
+    "2024-05(기업)/자습/sql/sql 문장 (05-23).md",
+    "2024-05(기업)/자습/sql",
+    "2024-05(기업)/자습/새 폴더",
+    "2024-05(기업)/새 폴더",
+    "자습/sql",
+    "자습/오라클(sql)",
+    "자습",
+    "sql 문장 (05-23).md",
+    "옵시디언 명령어 조각모음.md",
     "OJT 수업시간/2023-11/2023-11-20.md",
     "2024-05(기업)/자습/오라클(sql)",
     "2024-05(기업)/자습",
@@ -183,12 +191,6 @@
     "Pasted image 20231108200821.png",
     "OJT 수업시간/무제 폴더 4/무제 파일.md",
     "git bash",
-    "무제 폴더 4",
-    "OJT 수업시간/무제 폴더 3",
-    "OJT 수업시간/무제 폴더 2",
-    "OJT 수업시간/2024-1",
-    "OJT 수업시간/2023-12",
-    "OJT 수업시간/2023-11",
     "OJT 수업시간/2023-11.md",
     "OJT 수업시간/request.md",
     "Untitled.md"
