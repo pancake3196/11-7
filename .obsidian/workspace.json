@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05(기업)/분류.md",
+                "file": "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1d5580db96956de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05(기업)/분류.md",
+                "file": "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05(기업)/분류.md",
+                "file": "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05(기업)/분류.md"
+                "file": "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md"
               }
             }
           }
@@ -156,10 +169,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47bf67b0005fac92",
+  "active": "b1d5580db96956de",
   "lastOpenFiles": [
-    "2024-05(기업)/자습/분류.md",
+    "2024-05(기업)/자습/spring-boot/5-28.md",
+    "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md",
+    "2024-05(기업)/자습/spring-boot",
+    "Pasted image 20240527140955.png",
+    "Pasted image 20240527140934.png",
+    "2024-05(기업)/자습/mariadb(mysql)/2024-05-27.md",
+    "2024-05(기업)/자습/ncs 학습모듈",
+    "2024-05(기업)/자습/mariadb(mysql)",
+    "2024-05(기업)/자습/정보기기운용기능사/무제 폴더/패킷트레이서.md",
+    "2024-05(기업)/자습/정보기기운용기능사/무제 폴더/게이트웨이.md",
+    "2024-05(기업)/자습/정보기기운용기능사/실기에 필요한 정보들.md",
+    "2024-05(기업)/자습/정보기기운용기능사/무제 폴더",
     "2024-05(기업)/분류.md",
+    "2024-05(기업)/자습/정보기기운용기능사",
+    "2024-05(기업)/자습/분류.md",
     "2024-05(기업)/자습/sql/sql 문장(02-23).md",
     "2024-05(기업)/자습/wrqrwe.md.txt",
     "2024-05(기업)/자습/wrqrwe.txt",
@@ -167,15 +193,10 @@
     "2024-05(기업)1/자습/sql/sql 문장 (05-23).md",
     "2024-05(기업)/자습/sql",
     "2024-05(기업)/자습",
-    "무제 폴더 1",
-    "2024-05(기업)",
     "OJT 수업시간/2023-11/11-13.md",
     "옵시디언 명령어 조각모음.md",
     "sql 문장 (05-23).md",
-    "2024-05(기업)1/자습/sql/임시",
-    "2024-05(기업)/새 폴더",
     "OJT 수업시간/2023-11/2023-11-20.md",
-    "2024-05(기업)/임시",
     "2024-05(기업)/자습/오라클(sql)/sql 문장 (05-23).md",
     "git bash/git bash 명령어.md",
     "OJT 수업시간/2023-11/2023-11-06.md",
@@ -191,8 +212,6 @@
     "Pasted image 20231108202837.png",
     "Pasted image 20231108200838.png",
     "Pasted image 20231108202817.png",
-    "Pasted image 20231108200726.png",
-    "Pasted image 20231108200821.png",
     "OJT 수업시간/무제 폴더 4/무제 파일.md",
     "OJT 수업시간/2023-11.md",
     "OJT 수업시간/request.md",
