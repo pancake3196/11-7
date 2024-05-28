@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05(기업)/자습/엑셀/엑셀 함수.md",
+                "file": "2024-05(기업)/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05(기업)/자습/엑셀/엑셀 함수.md",
+                "file": "2024-05(기업)/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05(기업)/자습/엑셀/엑셀 함수.md",
+                "file": "2024-05(기업)/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05(기업)/자습/엑셀/엑셀 함수.md"
+                "file": "2024-05(기업)/무제 파일.md"
               }
             }
           }
@@ -156,11 +156,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ba52e3cd3244041",
+  "active": "47bf67b0005fac92",
   "lastOpenFiles": [
+    "2024-05(기업)/자습/엑셀/엑셀 함수.md",
+    "2024-05(기업)/무제 파일.md",
     "2024-05(기업)/무제 폴더",
     "2024-05(기업)/자습/정보기기운용기능사/무제 폴더/패킷트레이서.md",
-    "2024-05(기업)/자습/엑셀/엑셀 함수.md",
     "2024-05(기업)/자습/엑셀",
     "2024-05(기업)/자습/정보기기운용기능사/무제 폴더/게이트웨이.md",
     "2024-05(기업)/자습/ncs 학습모듈/네트워크 프로그래밍 구현.md",
@@ -182,7 +183,6 @@
     "2024-05(기업)/자습/분류.md",
     "2024-05(기업)/자습/wrqrwe.md.txt",
     "2024-05(기업)/자습/wrqrwe.txt",
-    "2024-05(기업)/자습/새 텍스트 문서.txt",
     "2024-05(기업)1/자습/sql/sql 문장 (05-23).md",
     "OJT 수업시간/2023-11/11-13.md",
     "옵시디언 명령어 조각모음.md",
